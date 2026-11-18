@@ -1,6 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "5ohi8g",
   env: {
     apiUrl: 'https://api.qaautomationlabs.com/v1'
   },
