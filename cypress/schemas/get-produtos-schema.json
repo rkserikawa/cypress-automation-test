@@ -1,0 +1,58 @@
+{
+    "type": "object",
+    "properties": {
+        "data": {
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "sku": {
+                        "type": "string"
+                    },
+                    "price": {
+                        "type": "number"
+                    },
+                    "currency": {
+                        "type": "string"
+                    },
+                    "stock": {
+                        "type": "number"
+                    },
+                    "rating": {
+                        "type": "number"
+                    },
+                    "status": {
+                        "type": "string"
+                    },
+                    "createdAt": {
+                        "type": "string"
+                    }
+                }
+            }        
+        },
+        "meta": {
+            "items": {
+                "type": "object",
+                "properties": {
+                    "requestId": {
+                        "type": "string"
+                    },
+                    "responseTimeMs": {
+                        "type": "number"
+                    },
+                    "timestamp":{
+                        "type": "string"
+                    },
+                    "apiVersion":{
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

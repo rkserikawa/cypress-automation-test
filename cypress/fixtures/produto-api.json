@@ -1,0 +1,42 @@
+{
+  "produto_teclado":{
+    "name": "HyperX Keyboard",
+    "price": 129.99,
+    "category": "Peripherals",
+    "stock": 15
+  },
+  "produto_faltando_campo_name":{
+    "price": 129.99,
+    "category": "Peripherals",
+    "stock": 15
+  },
+  "produto_faltando_campo_price":{
+    "name": "HyperX Keyboard",
+    "category": "Peripherals",
+    "stock": 15
+  },
+  "produto_campo_price_vazio":{
+    "name": "HyperX Keyboard",
+    "price": "",
+    "category": "Peripherals",
+    "stock": 15
+  },
+    "produto_campo_name_vazio":{
+    "name": "",
+    "price": 155,
+    "category": "Peripherals",
+    "stock": 15
+  },
+  "produto_teste_alteracao":{
+    "name": "Logitech G305",
+    "price": 79.99,
+    "category": "Peripherals",
+    "stock": 18
+  },
+  "produto_teste_alteracao_somente_campo_name":{
+    "name": "Logitech G305"
+  },
+  "produto_teste_alteracao_somente_campo_price":{
+    "price": 179.99
+  }
+}

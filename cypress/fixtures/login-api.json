@@ -1,0 +1,14 @@
+{
+  "login_valido": {
+    "email": "qa@demo.io", 
+    "password": "Password123" 
+  }, 
+  "login_invalido_email_incorreto": {
+    "email": "qa@demo.ioa", 
+    "password": "Password123" 
+  },
+  "login_invalido_senha_incorreta": {
+    "email": "qa@demo.io", 
+    "password": "Password1234" 
+  }
+}
